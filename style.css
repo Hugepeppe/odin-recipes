@@ -1,0 +1,14 @@
+.head {
+    font-size: 42px;
+    background-color: brown;
+    color: orange;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif
+    
+}
+
+.ulist {
+    font-size: 24px;
+    background-color:aqua;
+    color:brown;
+}
