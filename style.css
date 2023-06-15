@@ -1,4 +1,4 @@
-.head {
+h1 {
     font-size: 42px;
     background-color: brown;
     color: orange;
@@ -7,8 +7,21 @@
     
 }
 
-.ulist {
+h2 {font-size: 36px;
+
+}
+
+ul {
     font-size: 24px;
     background-color:aqua;
     color:brown;
 }
+
+ol {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color:green;
+    font-size: 24px;
+}
+
+body {font-family: 'Courier New', Courier, monospace;}
